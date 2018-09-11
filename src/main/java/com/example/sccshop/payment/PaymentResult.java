@@ -25,6 +25,6 @@ public class PaymentResult {
 	}
 
 	enum PaymentStatus {
-		SUCCESS, FAILED
+		SUCCESS, FAILURE
 	}
 }
